@@ -1,0 +1,20 @@
+[package]
+name = "wraith-transport"
+version = "0.1.0"
+edition = "2021"
+authors = ["Matt Gates <matt@ridgecellrepair.com>"]
+description = "A no_std HTTP/HTTPS transport layer over smoltcp for bare-metal Rust environments"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/suhteevah/wraith-transport"
+keywords = ["http", "https", "transport", "no_std", "smoltcp"]
+categories = ["no-std", "web-programming::http-client", "network-programming"]
+readme = "README.md"
+rust-version = "1.75"
+
+[dependencies]
+log = { version = "0.4", default-features = false }
+
+[dev-dependencies]
+
+[features]
+default = []
