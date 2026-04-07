@@ -122,6 +122,8 @@ Contributions welcome! Please open an issue or PR on [GitHub](https://github.com
 
 ---
 
+---
+
 ## Support This Project
 
 If you find this project useful, consider buying me a coffee! Your support helps me keep building and sharing open-source tools.
